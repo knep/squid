@@ -1,4 +1,4 @@
-FROM ubuntu-debootstrap:latest
+FROM ubuntu:latest
 
 MAINTAINER knepti <knepti@gmail.com>
 
